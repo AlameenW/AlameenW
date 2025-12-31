@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alameen adeku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alameen adeku" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alameen-adeku-2507492b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alameen adeku" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alameen_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alameen_w" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@alameen adeku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alameen adeku" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/adekualameem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alameen adeku" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
