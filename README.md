@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alameen</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Mobile App Development** with React Native.
+- 🌱 I’m currently learning **AI engineering & automation** 
 
 - 👯 I’m looking to collaborate on **any full stack or AI/ML project**
 
