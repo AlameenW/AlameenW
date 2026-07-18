@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **AI engineering & automation** 
 
-- 👯 I’m looking to collaborate on **any full stack or AI/ML project**
+- I’m looking to collaborate on **any full stack or AI/ML project**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-two-chi-py4cyjb8i1.vercel.app/](https://portfolio-two-chi-py4cyjb8i1.vercel.app/)
-
-- 📄 Know about my experiences [https://portfolio-two-chi-py4cyjb8i1.vercel.app/resume.pdf](https://portfolio-two-chi-py4cyjb8i1.vercel.app/resume.pdf)
+- View my portfolio [https://portfolio-06-26-theta.vercel.app/](here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
